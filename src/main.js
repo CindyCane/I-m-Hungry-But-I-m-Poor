@@ -4,7 +4,7 @@ import * as VueGoogleMaps from "vue2-google-maps";
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyCLQM078vAO0P_jie2ILgX1xjtm74JNOOs",
+    key: "YOUR API KEY",
     libraries: "places"
   }
 });
